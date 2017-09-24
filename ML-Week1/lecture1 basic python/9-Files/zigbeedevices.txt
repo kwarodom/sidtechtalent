@@ -1,0 +1,19 @@
+3: number of arguments
+Sending Discovery...
+Sent!
+frame read!
+frame read!
+frame read!
+number of discovered devices : 3
+Received Frame: 7e001988014e440000000013a20040b62a3f2000fffe0000c105101ebf
+lenData: 29
+Parse:DEVICE_DISCOVER
+ Device : 0013a20040b62a3f -  Coordinator 
+Received Frame: 7e001988014e44006e290013a20040a4d8fb2000e0970200c105101e54
+lenData: 29
+Parse:DEVICE_DISCOVER
+ Device : 0013a20040a4d8fb -  End User 
+Received Frame: 7e001988014e4400e0970013a2004060f3c12000fffe0100c105101e52
+lenData: 29
+Parse:DEVICE_DISCOVER
+ Device : 0013a2004060f3c1 -  Router 
