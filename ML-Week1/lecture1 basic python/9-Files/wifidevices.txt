@@ -1,0 +1,4 @@
+Sent the SSDP multicast request and now waiting for a response..
+Found a wireless microcontroller, base URI:  http://38.68.232.98/sys/
+Found a wireless microcontroller, base URI:  http://8.30.72.132/sys/
+Found 2 device(s)
