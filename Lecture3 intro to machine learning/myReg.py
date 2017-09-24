@@ -16,8 +16,8 @@ y = data['SalePrice']
 
 #GRADIENT DESCENT
 
-alpha = 0.01 #Step size
-iterations = 5000 #No. of iterations
+alpha = 0.0005 #Step size
+iterations = 50000 #No. of iterations
 m = y.size #No. of data points
 np.random.seed(123) #Set the seed
 theta = np.random.rand(2) #Pick some random values to start with
