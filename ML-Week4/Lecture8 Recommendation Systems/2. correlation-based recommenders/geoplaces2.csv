@@ -1,0 +1,131 @@
+placeID,latitude,longitude,name,address,city,state,country,fax,zip,alcohol,smoking_area,dress_code,accessibility,price,url,Rambience,franchise,area,other_services
+134999,18.915421,-99.184871,Kiku Cuernavaca,Revolucion,Cuernavaca,Morelos,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,kikucuernavaca.com.mx,familiar,,closed,none
+132825,22.1473922,-100.983092,puesto de tacos,esquina santos degollado y leon guzman,s.l.p.,s.l.p.,mexico,,78280,No_Alcohol_Served,none,informal,completely,low,,familiar,,open,none
+135106,22.1497088,-100.9760928,El RincÑn de San Francisco,Universidad 169,San Luis Potosi,San Luis Potosi,Mexico,,78000,Wine-Beer,only at bar,informal,partially,medium,,familiar,,open,none
+132667,23.7526973,-99.1633594,little pizza Emilio Portes Gil,calle emilio portes gil,victoria ,tamaulipas,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132613,23.7529035,-99.165076,carnitas_mata,lic. Emilio portes gil,victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,permitted,informal,completely,medium,,familiar,,closed,none
+135040,22.135617,-100.969709,Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,SLP,Mexico,,74000,Wine-Beer,none,informal,no_accessibility,high,,familiar,,closed,none
+132732,23.7543569,-99.171288,Taqueria EL amigo ,Calle Mezquite Fracc Framboyanes,Cd Victoria,Tamaulipas,Mexico,,87018,No_Alcohol_Served,none,casual,completely,low,,familiar,,open,none
+132875,22.1499013,-100.9937793,shi ro ie,,,,,,,Wine-Beer,section,informal,no_accessibility,high,,familiar,,open,Internet
+132609,23.7602683,-99.1658646,Pollo_Frito_Buenos_Aires,tampico,victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,low,,quiet,,closed,none
+135082,22.151448,-100.915099,la Estrella de Dimas,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,SLP,Mexico,,78421,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135070,22.152918,-100.915164,Restaurante 75,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,SLP,Mexico,,78421,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135069,22.140129,-100.944872,Abondance Restaurante Bar,Industrias 908 Valle Dorado,San Luis Potosi,SLP,Mexico,,78399,Wine-Beer,none,informal,no_accessibility,low,,familiar,,closed,none
+135065,22.14958,-100.999557,El angel Restaurante,Venustiano Carranza 1625 Jardin,San Luis Potosi,SLP,Mexico,,78250,Wine-Beer,section,informal,no_accessibility,high,,familiar,,closed,none
+135076,22.181017,-100.973614,Restaurante Pueblo Bonito,Mexico 2015 Providencia,San Luis Potosi,SLP,Mexico,,78395,Wine-Beer,none,informal,no_accessibility,high,,familiar,,closed,none
+135086,22.141421,-101.013955,Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,San Luis Potosi,SLP,Mexico,,78290,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,,familiar,,closed,none
+132870,22.1430781,-100.9354788,Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,no_accessibility,low,,familiar,,closed,none
+132854,22.1378633,-100.9383273,Sirlone,carr. mexico,San Luis Potosi,San Luis Potosi,Mexico,,,Wine-Beer,none,informal,completely,medium,,familiar,,closed,none
+132937,22.1500193,-100.9799203,rockabilly ,agustin de iturbide,san luis potosi,san luis potosi,mexico,,,Full_Bar,section,informal,completely,low,,quiet,,closed,variety
+132856,22.1513782,-100.9746337,Unicols Pizza,Plaza del Carmen,San Luis Potosi,San Luis Potosi,Mexico,,,Wine-Beer,none,informal,completely,low,,familiar,,closed,none
+132668,23.738212,-99.1519547,TACOS EL GUERO,,victoria,tamaulipas,mexico,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135033,22.14161,-100.973142,Restaurant El Muladar de Calzada,De Guadalupe 460 San Miguelito,San Luis Potosi,SLP,Mexico,,78399,No_Alcohol_Served,section,informal,no_accessibility,medium,,familiar,,closed,none
+132862,22.1506429,-100.9870148,La Posada del Virrey,Av. V. Carranza,San Luis Potosi,San Luis Potosi,Mexico,,,Wine-Beer,none,casual,completely,high,,familiar,,closed,none
+134983,18.948657,-99.235361,Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Morelos,Mexico,,62250,Full_Bar,section,informal,no_accessibility,high,carlosandcharlies.com,familiar,,closed,none
+132851,22.136872,-100.9345736,KFC,,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,low,,familiar,,closed,none
+135013,18.917441,-99.165945,Giovannis,40 Norte Civac 1RA. Seccion,Jiutepec,Morelos,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,low,,familiar,,closed,none
+135042,22.159357,-100.973411,Restaurant Oriental Express,Tangamanga 7 Tangamanga,San Luis Potosi,SLP,Mexico,,78269,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132768,18.9257734,-99.2326355,Mariscos Tia Licha,avenida salvador montiel ,cuernavaca,morelos,mexico,,62320,No_Alcohol_Served,not permitted,casual,partially,medium,,familiar,,closed,none
+132561,23.726819,-99.1265059,cafe ambar,,,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135045,22.151189,-100.98179,Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,SLP,Mexico,,78000,Wine-Beer,none,casual,no_accessibility,high,lagranvia.com.mx,familiar,,closed,none
+132847,22.1443365,-100.9373825,don burguers,r.b. anaya esq. florencia,slp,slp,mexico,,,No_Alcohol_Served,none,informal,no_accessibility,low,,familiar,,open,none
+135054,22.140626,-100.915657,Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,SLP,Mexico,,78000S,No_Alcohol_Served,none,informal,no_accessibility,high,,familiar,,closed,none
+134975,18.940828,-99.215426,Rincon del Bife,,,,,,,Full_Bar,section,informal,completely,high,,familiar,,closed,variety
+135053,22.178931,-101.012861,La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,SLP,Mexico,,62460,No_Alcohol_Served,section,informal,no_accessibility,high,,familiar,,closed,none
+135050,22.174887,-100.970825,Restaurante la Estrella de Dima,Soledad Sn Arboledas de Soledad,Soledad,SLP,Mexico,,78430,Wine-Beer,none,informal,no_accessibility,high,,familiar,,closed,none
+135025,22.14955,-100.97797,El Rincon de San Francisco,1a. de Lozada 1,San Luis Potosi,SLP,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135030,22.14788,-100.989472,Preambulo Wifi Zone Cafe,Anahuac 805,San Luis Potosi,SLP,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,quiet,,closed,Internet
+135057,22.145992,-100.955118,El Herradero Restaurante and Bar,Costado Sur Central Camionera Km 2,San Luis Potosi,SLP,Mexico,,78390,Wine-Beer,section,informal,no_accessibility,medium,,familiar,,closed,none
+135079,22.156376,-100.998355,Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,none,informal,no_accessibility,high,,familiar,,closed,none
+134992,18.936683,-99.247366,Restaurant Teely,La Pradera,Cuernavaca,Morelos,Mexico,,,Wine-Beer,section,casual,no_accessibility,high,,familiar,,closed,none
+132954,22.1603808,-100.9880447,la parroquia,venustiano carranza,san luis potosi,san luis potosi,,,,No_Alcohol_Served,not permitted,informal,partially,medium,,familiar,,closed,none
+135041,22.15106,-100.977659,Luna Cafe,Francisco I. Madero 215,San Luis Potosi,SLP,Mexico,,,Wine-Beer,none,informal,no_accessibility,medium,lunacafe.com.mx,familiar,,closed,none
+132608,23.7588052,-99.1651297,Hamburguesas La perica,cd. mier,victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,permitted,informal,completely,low,,quiet,,open,none
+135046,22.141282,-101.002958,Restaurante El Reyecito,Agricultura 595 del Valle,San Luis Potosi,SLP,Mexico,,78200,No_Alcohol_Served,none,informal,no_accessibility,medium,reyecito.com,familiar,,closed,none
+132564,23.7309245,-99.1451848,churchs,,,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132869,22.1412384,-100.9239252,Dominos Pizza,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,,familiar,,closed,none
+132925,22.1534997,-100.976243,el pueblito,,,,,,,Wine-Beer,not permitted,informal,completely,medium,,familiar,,closed,none
+132955,22.147622,-101.0102749,emilianos,venustiano carranza,san luis potos,mexico,,,,Wine-Beer,none,informal,completely,low,,familiar,,closed,variety
+135059,22.145108,-100.989547,Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,San Luis Potosi,SLP,Mexico,,78250,Wine-Beer,section,informal,no_accessibility,medium,,familiar,,closed,none
+135001,18.941859,-99.241927,Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Morelos,Mexico,,62170,Wine-Beer,none,informal,completely,medium,,familiar,,closed,none
+135063,22.156724,-100.975556,Restaurante Alhondiga,Alhondiga 62 Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135080,22.145008,-100.997969,los Toneles,Estatuto Juridico 1040 Burocratas,San Luis Potosi,SLP,Mexico,,78270,No_Alcohol_Served,section,informal,no_accessibility,high,lostoneles.com.mx,familiar,,closed,none
+135000,18.870565,-99.226938,Restaurant los Pinos,Federal Mexico - Acapulco 10 3 de Mayo,Cuernavaca,Morelos,Mexico,,62790,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135066,22.16835,-100.972466,Restaurante Guerra,20 de Noviembre 1817 Tlaxcala,San Luis Potosi,SLP,Mexico,,78038,Wine-Beer,section,informal,no_accessibility,high,,familiar,,closed,none
+135034,22.140517,-101.021422,Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,San Luis Potosi,SLP,Mexico,,78210,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135060,22.156883,-100.978485,Restaurante Marisco Sam,Ignacio Allende 785 Centro,San Luis Potosi,SLP,Mexico,,78310,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135055,22.148854,-101.008472,la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,San Luis Potosi,SLP,Mexico,,78270,No_Alcohol_Served,section,informal,no_accessibility,high,,familiar,,closed,none
+135108,22.1362534,-100.9335852,Potzocalli,Carretera Central Sn,San Luis Potosi,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135074,22.149689,-100.999525,Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,SLP,Mexico,,78000,Wine-Beer,section,informal,no_accessibility,high,,familiar,,closed,none
+135018,18.859803,-99.222164,El Oceano Dorado,Libramiento Burgos Colonia Las Animas,Cuernavaca,Morelos,Mexico,,,Full_Bar,permitted,informal,completely,medium,eloceanodorado.com,familiar,,open,variety
+135064,22.154687,-100.996617,Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,SLP,Mexico,,78740,No_Alcohol_Served,none,informal,no_accessibility,high,,familiar,,closed,none
+135038,22.155651,-100.977767,Restaurant la Chalita,Guajardo Sn San Luis Potosi Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,section,informal,no_accessibility,medium,,familiar,,closed,none
+135081,22.164842,-100.960493,El Club,Mexico 810 Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132723,22.1489337,-101.019845,Gordas de morales,,,San Luis Potosi,Mexico,,,Full_Bar,section,informal,completely,medium,,familiar,,closed,none
+135051,22.151189,-100.977058,Restaurante Versalles,Francisco I. Madero 145 Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,section,informal,no_accessibility,low,,familiar,,closed,none
+135021,18.933537,-99.222497,Subway,Rio Mayo 17 Vista Hermosa,Cuernavaca,Morelos,Mexico,,62290,No_Alcohol_Served,not permitted,informal,no_accessibility,low,,familiar,,closed,none
+135052,22.150981,-100.977412,La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,SLP,Mexico,,78000,Full_Bar,none,informal,no_accessibility,high,lacantinaslp.com,familiar,,closed,none
+132845,22.1262926,-100.9007764,Cenaduria El Rincí_n de Tlaquepaque,av. seminario,san luis potosi,san luis potosi,mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135011,18.91061,-99.169539,Los Vikingos,36 Sur Civac,Jiutepec,Morelos,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132858,22.1312917,-100.9371941,Hamburguesas Valle Dorado,Av. Coral,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135026,22.148665,-101.001273,la Cantina,Capitan Caldera No. 420 Tequisqueapan,San Luis Potosi,SLP,Mexico,,78250,Full_Bar,none,informal,no_accessibility,high,lacantinaslp.com,familiar,,closed,none
+132884,22.1395776,-101.0278863,dairy queen,,,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135016,18.869347,-99.209944,Arrachela Grill,69 Tres De Mayo,Cuernavaca,Morelos,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135104,23.7529821,-99.1684341,vips,,,,,,,Full_Bar,not permitted,informal,completely,medium,,familiar,,closed,variety
+132630,23.7529305,-99.1644725,palomo tec,blvrd emilio portes gil,victoria,tamaulipas,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135047,22.150921,-100.993828,Restaurante Casa de las Flores,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,SLP,Mexico,,78310,Wine-Beer,section,informal,no_accessibility,high,,familiar,,closed,none
+132951,22.1544736,-100.9858091,VIPS,NICOLAS ZAPATA 300,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,casual,completely,low,,familiar,,closed,none
+132665,23.7367977,-99.1342413,TACOS CORRECAMINOS,,victoria,tamaulipas,mexico,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135044,22.141848,-100.997475,Restaurant Wu Zhuo Yi,Himno Nacional 100 Avenida,San Luis Potosi,SLP,Mexico,,78240,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135035,22.145813,-101.018032,El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),San Luis Potosi,SLP,Mexico,,78210,No_Alcohol_Served,section,informal,no_accessibility,high,,familiar,,closed,none
+135071,22.126375,-100.910926,Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,San Luis Potosi,SLP,Mexico,,78396,Full_Bar,section,informal,no_accessibility,medium,,familiar,,closed,none
+132834,22.156469,-100.98554,Gorditas Doa Gloria,sevilla y olmedo 715 a,san luis potosi,san luis potosi,mexico,,78349,No_Alcohol_Served,not permitted,casual,no_accessibility,low,,familiar,,closed,none
+132846,22.1422732,-100.9426537,el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,slp,mexico,,,No_Alcohol_Served,permitted,casual,no_accessibility,low,,familiar,,open,none
+135048,22.142017,-100.999246,Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,SLP,Mexico,,78269,Wine-Beer,none,informal,no_accessibility,high,,familiar,,closed,none
+132717,23.7318602,-99.1504365,tortas hawai,,,,,,,No_Alcohol_Served,not permitted,informal,partially,medium,,familiar,,closed,none
+132861,22.1480965,-101.0173023,Carls Jr,Av. V. Carranza,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,medium,,familiar,,closed,none
+132885,22.1795169,-100.9584358,Hamburguesas saul,Av. Saan Luis enttre moctezuma y salinas,San Luis Potosi,San Luis Potosi,mexico,,78433,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132740,23.7521965,-99.1666317,Carreton de Flautas y Migadas,,Ciudad Victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,permitted,informal,completely,low,,familiar,,open,none
+132830,22.1508494,-100.9397522,Rincon Huasteco,,,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132773,18.8699929,-99.2103195,El cotorreo,Emiliano Zapata Col. Tres de Mayo,Cuernavaca,Morelos,,,,Wine-Beer,permitted,informal,no_accessibility,low,,familiar,,open,none
+132706,23.7292162,-99.1323571,Gorditas Dona Tota,Zaragoza entre Francisco Zarco y Lopez Velarde,Cd. Victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,,familiar,,closed,none
+132872,22.1735955,-100.9946027,Pizzeria Julios,,s.l.p,mexico,,,,No_Alcohol_Served,not permitted,informal,partially,medium,,familiar,,closed,none
+134987,18.932725,-99.225211,Chilis Cuernavaca,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,Cuernavaca,Morelos,Mexico,,62290,Wine-Beer,none,informal,no_accessibility,medium,chilis.com.mx,familiar,,closed,none
+132572,22.1416471,-100.9927118,Cafe Chaires,,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,low,,familiar,,closed,none
+132958,22.1449787,-101.0056829,tacos los volcanes,avenida hivno nacional,san luis potosi,san luis potos,mexico,,,No_Alcohol_Served,none,informal,completely,low,,quiet,,closed,none
+132733,23.7527071,-99.1625655,Little Cesarz,,Ciudad Victoria,Tamaulipas,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,medium,,familiar,,closed,none
+132922,22.1511348,-100.9823115,cafe punta del cielo,,,,,,,No_Alcohol_Served,permitted,formal,completely,medium,,familiar,,closed,none
+132715,23.7324226,-99.1586602,tacos de la estacion,,,,,,,No_Alcohol_Served,none,informal,no_accessibility,low,,quiet,,open,none
+135027,22.147145,-100.974494,Restaurant Orizatlan,Pascual M. Hernandez 240,San Luis Potosi,SLP,Mexico,,,Wine-Beer,none,informal,no_accessibility,medium,,familiar,,closed,none
+132767,18.8820871,-99.1630268,Restaurant Familiar El Chino,Paseo de las Fuentes,Jiutepec,Morelos,,,,Wine-Beer,permitted,casual,partially,medium,,familiar,,open,variety
+135039,22.145893,-100.97487,Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,San Luis Potosi,SLP,Mexico,,79300,No_Alcohol_Served,section,informal,no_accessibility,low,,familiar,,closed,none
+134996,18.923429,-99.216413,Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Morelos,Mexico,,,Wine-Beer,only at bar,informal,no_accessibility,medium,,familiar,,closed,Internet
+132755,22.153324,-101.0195459,La Estrella de Dimas,Av. de los Pintores,San Luis Potosi,S.L.P.,Mexico,,,No_Alcohol_Served,none,informal,partially,medium,,familiar,,closed,variety
+135043,22.185756,-100.944518,pizza clasica,524 Soledad de Graciano Sanchez,Soledad,SLP,Mexico,,,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132654,23.7355234,-99.1295877,Carnitas Mata  Calle 16 de Septiembre,16 de Septiembre,victoria ,tamaulipas,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+135049,22.135011,-101.0286,Restaurante de Mariscos la Langosta,Cordillera de Los Alpes 675 Loma Verde,San Luis Potosi,SLP,Mexico,,78214,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+135073,22.147175,-100.974269,Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,SLP,Mexico,,78000,Wine-Beer,section,informal,no_accessibility,high,,familiar,,closed,none
+132560,23.7523041,-99.1669133,puesto de gorditas,frente al tecnologico,victoria,tamaulipas,mexico,,,No_Alcohol_Served,permitted,informal,no_accessibility,low,,familiar,,open,none
+134976,18.916654,-99.22711,Log Yin,,,,,,,No_Alcohol_Served,none,informal,no_accessibility,low,,familiar,,closed,none
+135075,22.139573,-100.991564,Mariscos El Pescador,Himno Nacional 2104 Tangamanga,San Luis Potosi,SLP,Mexico,,78269,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132660,23.7529428,-99.1646791,carnitas mata calle Emilio Portes Gil,Emilio Portes Gil,victoria,tamaulipas,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132921,22.150305,-100.9891337,crudalia,,,,,,,Wine-Beer,section,casual,completely,low,,quiet,,open,none
+132594,23.7521677,-99.165709,tacos de barbacoa enfrente del Tec,,,,,,,No_Alcohol_Served,not permitted,informal,completely,low,,familiar,,open,none
+134986,18.928798,-99.239513,Restaurant Las Mananitas,Ricardo Linares 107,Cuernavaca,Morelos,Mexico,,,Wine-Beer,none,formal,no_accessibility,high,lasmananitas.com.mx,familiar,,closed,none
+135062,22.153703,-100.979033,Restaurante El Cielo Potosino,Julian de Los Reyes 400 Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132766,18.9101777,-99.2315438,Mikasa,Himno nacional esq. Blvd. Juarez,Cuernavaca,Morelos,Mexico,,,Wine-Beer,none,informal,no_accessibility,medium,,familiar,,closed,none
+135088,18.8760113,-99.2198896,Cafeteria cenidet,Interior Internado Palmira SN,Cuernavaca,Morelos,Mexico,,,No_Alcohol_Served,not permitted,informal,no_accessibility,low,www.cenidet.edu.mx,quiet,,closed,none
+135058,22.165587,-101.001273,Restaurante Tiberius,Munoz Sn Centro,San Luis Potosi,SLP,Mexico,,64000,No_Alcohol_Served,none,informal,no_accessibility,medium,,familiar,,closed,none
+132754,22.1477379,-100.9906163,Cabana Huasteca,Cuauhtemoc 455,San Luis Potosi,S.L.P.,Mexico,,,No_Alcohol_Served,none,informal,partially,medium,,familiar,,closed,none
+132584,23.7523648,-99.1652879,Gorditas Dona Tota,,,,,,,No_Alcohol_Served,not permitted,informal,completely,medium,,familiar,,closed,none
+135032,22.152481,-100.973486,Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,SLP,Mexico,,78000,Wine-Beer,section,informal,no_accessibility,medium,,familiar,,closed,none
+135028,22.146658,-100.987219,La Virreina,Av. Carranza 830,San Luis Potosi,SLP,Mexico,,,Wine-Beer,none,informal,no_accessibility,medium,,familiar,,closed,none
+135085,22.150802,-100.98268,Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,San Luis Potosi,SLP,Mexico,,78000,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,,familiar,,closed,none
+132663,23.7525107,-99.1669536,tacos abi,,victoria,tamaulipas,mexico,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132626,23.7375834,-99.1351318,la perica hamburguesa,,victoria,tamaulipas,,,,No_Alcohol_Served,none,informal,completely,medium,,familiar,,closed,none
+132583,18.9222904,-99.234332,McDonalds Centro,Rayon sn col. Centro,Cuernavaca,Morelos,Mexico,,62000,No_Alcohol_Served,not permitted,informal,partially,low,no,familiar,,closed,none
+132866,22.1412198,-100.9313107,Chaires,Ricardo B. Anaya,San Luis Potosi,San Luis Potosi,Mexico,,,No_Alcohol_Served,not permitted,informal,completely,medium,,familiar,,closed,none
+135072,22.149192,-101.002936,Sushi Itto,Venustiano Carranza 1809 C Polanco,San Luis Potosi,SLP,Mexico,,78220,No_Alcohol_Served,none,informal,no_accessibility,medium,sushi-itto.com.mx,familiar,,closed,none
+135109,18.9217848,-99.2353499,Paniroles,,,,,,,Wine-Beer,not permitted,informal,no_accessibility,medium,,quiet,,closed,Internet
+135019,18.875011,-99.159422,Restaurant Bar Coty y Pablo,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,Jiutepec,Morelos,Mexico,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
+132877,22.1353639,-100.9349477,sirloin stockade,,,,,,,No_Alcohol_Served,none,informal,completely,low,,familiar,,closed,none
