@@ -1,0 +1,10 @@
+version: "2"
+services:
+  mlapi:
+    build: ./
+    container_name: mlapi
+    volumes:
+      - ./sidtechtalent:/home/sidtechtalent
+    ports:
+      - 8000:8000
+    tty: true
