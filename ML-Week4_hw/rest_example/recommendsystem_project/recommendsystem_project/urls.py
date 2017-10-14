@@ -15,19 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
-from rest_framework import routers
-from nearestNeighbors_api import views as nnbapiviews
-
-router = routers.DefaultRouter()
-router.register(r'users', nnbapiviews.UserViewSet)
-router.register(r'groups', nnbapiviews.GroupViewSet)
 
 urlpatterns = [
-	url(r'^', include(router.urls)),
 	url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),    
-    url(r'^nearestNeighbors_api/hello', nnbapiviews.Hello.as_view(), name="hello"),
-    url(r'^nearestNeighbors_api/world', nnbapiviews.World.as_view(), name="world"),
-	url(r'^nearestNeighbors_api/nnb', nnbapiviews.Nnb.as_view(), name="wnnb"),
     url(r'^admin/', admin.site.urls),
     url(r'^carrecommend_3nnb/', include('carmodelrecommend_3KNearestneighbors.urls')),
 ]
